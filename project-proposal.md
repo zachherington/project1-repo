@@ -1,5 +1,5 @@
 ## Project Title
-
+#### Impact of weather related changes on ride share services
 
 
 ## Team Members
@@ -8,7 +8,7 @@
 #### Zach Herington
 
 ## Project Description/Outline
-* Impact of weather related changes on ride share services
+* Using census and weather, how are different ride share services impacted. 
 
 ## Research Questions to Answer
 * What areas of the map are most affected by weather changes?
